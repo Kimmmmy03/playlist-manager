@@ -1,11 +1,12 @@
 # Playlist Manager
 
 ## Original Authors
-This project is created and maintained by 
-AKMAL HAKIMI BIN ABD RASHID 
-KHAIRUL NAQIB BIN KUSHAINI
-BATRISHA ELYANI FAKHIRA BINTI ROSLEE
-SYED MUHAMMAD AKIL BIN SYED ALI
+This project is created and maintained by:
+
+* **Akmal Hakimi Bin Abd Rashid**
+* **Khairul Naqib Bin Kushaini**
+* **Batrisha Elyani Fakhira Binti Roslee**
+* **Syed Muhammad Akil Bin Syed Ali**
 
 ---
 
